@@ -104,6 +104,13 @@ Model menggunakan `sklearn.neural_network.MLPClassifier` dengan:
 
 Setelah training, metrik tersimpan di `models_output/metrics.json` dan kurva loss di `figures/training_loss.png`.
 
+## 🧠 Artikel / Publikasi
+
+Untuk kebutuhan tugas akhir, tersedia juga artikel ilmiah dalam format jurnal:
+
+- **[`docs/MASTERING_MLP_FOR_CUSTOMER_UPLIFT.md`](docs/MASTERING_MLP_FOR_CUSTOMER_UPLIFT.md)** — tutorial step-by-step gaya Medium.
+- **[`docs/ARTIKEL_JURNAL_MLP_SOCIALCHAT.md`](docs/ARTIKEL_JURNAL_MLP_SOCIALCHAT.md)** — artikel jurnal formal lengkap dengan abstrak, metodologi, hasil, dan pembahasan.
+
 ## 🧠 Memahami MLP
 
 Untuk penjelasan lengkap cara kerja MLP pada proyek ini — mulai dari input layer, hidden layer ReLU, output layer softmax, hingga backpropagation — baca:
